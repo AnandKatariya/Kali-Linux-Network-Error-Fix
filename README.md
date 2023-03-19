@@ -1,7 +1,14 @@
+<p align="center"><img src="https://thumbs.gfycat.com/IdealCookedHaddock-size_restricted.gif" hight='400' width= '400' align='center'/>
+</p>
 <h1 align="center">Welcome to Network Fix Error Reprository 👋</h1>
 
 > 
+<p>
+  <img src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
+</p>
+
 ### 🏠 [Homepage](https://github.com/AnandKatariya?tab=repositories)
+
 ## Check
 ```sh
 iwconfig
